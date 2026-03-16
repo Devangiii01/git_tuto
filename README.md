@@ -1,4 +1,5 @@
 # krishimitra
 model for crop prediction
 <br>
-author - Devangi
+author - Devangi Mishra
+
