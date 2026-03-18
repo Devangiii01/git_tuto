@@ -1,3 +1,7 @@
+# github tutorial
+model for crop prediction
+<br>
+author - Devangi Mishra
 git# git_tuto
 learning git commands
 <br>
